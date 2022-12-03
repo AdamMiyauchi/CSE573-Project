@@ -1,0 +1,9 @@
+,mean
+fit_time,677.4876863479615
+score_time,1.4561701615651448
+test_accuracy,0.4389073101873127
+test_precision,0.4508039453863009
+test_recall,0.729200069658506
+test_f1,0.5395287629712588
+stock,AMZN
+desc,AMZN using news body

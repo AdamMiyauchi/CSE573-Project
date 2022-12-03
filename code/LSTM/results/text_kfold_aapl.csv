@@ -1,0 +1,9 @@
+,mean
+fit_time,258.9592933654785
+score_time,0.7713925838470459
+test_accuracy,0.4580368451361073
+test_precision,0.48995360594658804
+test_recall,0.3264971526010242
+test_f1,0.31405455476344724
+stock,AAPL
+desc,AAPL using news body
